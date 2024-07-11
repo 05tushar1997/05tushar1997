@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MySQL, Python, PowerBI, Excel, Data-Visulization, MongoDB**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](file:///C:/Users/saran/Downloads/TusharPatil-DataAnalyst-N46y.pdf)
 
 - ⚡ Fun fact **Excited to learn New Technologies**
 
