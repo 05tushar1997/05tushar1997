@@ -1,17 +1,37 @@
-## Hi there https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 My name is Tushar Patil
-An Aspiring Data Analyst.
+![image](https://github.com/05tushar1997/05tushar1997/assets/161101934/af42f8ec-cb6e-48f7-afdb-18d160c1a353)
+<h1 align="center">Hi there👋, I'm Tushar Patil</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<!--
-**05tushar1997/05tushar1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Analytics" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=05tushar1997&label=Profile%20views&color=0e75b6&style=flat" alt="05tushar1997" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Data Analytics**
+
+- 👯 I have done collaborative Projects [Grubhub](https://github.com/PalakAgarwal7/GrubHub)
+
+- 🤝 I’m looking for help with **Open source Opportunites**
+
+- 👨‍💻 Visit [https://github.com/05tushar1997](https://github.com/05tushar1997)
+
+- 📫 How to reach me **tushar199705@gmail.com**
+
+- 💬 Ask me about **MySQL, Python, PowerBI, Excel, Data-Visulization, MongoDB**
+
+- 📄 Know about my experiences [Resume](Resume)
+
+- ⚡ Fun fact **Excited to learn New Technologies**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tushar patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar patil" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=05tushar1997&show_icons=true&locale=en&layout=compact" alt="05tushar1997" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=05tushar1997&show_icons=true&locale=en" alt="05tushar1997" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=05tushar1997&" alt="05tushar1997" /></p>
