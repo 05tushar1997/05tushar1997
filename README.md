@@ -10,7 +10,7 @@
 
 - 👯 I have done collaborative Projects [Grubhub](https://github.com/PalakAgarwal7/GrubHub)
 
-- 🤝 I’m looking for help with **Open source Opportunites**
+- 🤝 I’m looking for help with **Open source Opportunities**
 
 - 👨‍💻 Visit [https://github.com/05tushar1997](https://github.com/05tushar1997)
 
