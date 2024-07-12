@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=05tushar1997&label=Profile%20views&color=0e75b6&style=flat" alt="05tushar1997" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Advanced SQL**
 
 - 👯 I have done collaborative Projects [Grubhub](https://github.com/PalakAgarwal7/GrubHub)
 
